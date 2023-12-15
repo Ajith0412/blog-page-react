@@ -1,0 +1,10 @@
+.jumbotron {
+    width: 100%;
+    max-width: 90%;
+    margin: auto;
+
+}
+
+.jumbotron h5 {
+    color: white;
+}

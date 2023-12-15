@@ -1,0 +1,13 @@
+.card {
+    background-color: black !important;
+}
+
+.card-header {
+    color: white !important;
+    font-size: 12px !important;
+}
+
+.card-text {
+    color: white;
+    font-size: 20px;
+}
